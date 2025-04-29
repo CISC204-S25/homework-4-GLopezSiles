@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dfyalmsbtryui"]
+
+[ext_resource type="Script" path="res://guadalupe_lopez_siles.gd" id="1_l3dij"]
+
+[node name="Guadalupe Lopez-Siles" type="Node2D"]
+script = ExtResource("1_l3dij")
